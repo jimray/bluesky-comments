@@ -53,4 +53,6 @@ This is a project of the Bluesky DevRel team. We welcome all but reports, featur
 MIT — free to use for personal or commercial projects
 
 ## TODO
+* [ ] Support threading
+* [ ] Include more information from each post (avatar, link, timestamp)
 * [ ] Implementation examples for common static site generators with an automatic post to Bluesky flow
