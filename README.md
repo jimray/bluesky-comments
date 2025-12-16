@@ -1,6 +1,6 @@
 # Bluesky Comments Web Component
 
-A zero-dependency web component that displays Bluesky replies as blog comments. No framework, build step, or backend required.
+A zero-dependency web component that displays Bluesky replies as blog comments. No framework, build step, or backend required. [Prior art!](https://emilyliu.me/blog/comments)
 
 Feedback is great, managing comments can be a bit of a pain. Social media is fantastic way to promote your work, but then the conversation is separated from your original post.
 
